@@ -1,0 +1,43 @@
+body{
+	background-color: Gainsboro;
+	font-family: Papyrus,"Courier New","Times New Roman";
+	font-size: 19px;
+}
+h1{
+	text-align: center;
+	font-size: 45px;
+	text-decoration: underline;
+}
+#content{
+	font-weight: 900;
+	font-size: 23px;
+	text-decoration: underline;
+}
+#bibliography{
+	font-size: 40px;
+}
+.Source{
+	font-size: 15px;
+}
+.Heading2{
+	font-size: 25px;
+}
+.image{
+	margin-left:15%;
+	margin-top:2%;
+	margin-bottom:2%;
+	border-color: black;
+	border-style: double;
+	border-width: 6px;
+}
+img{
+	border-color: black;
+	border-style: solid;
+	border-width: 3px;
+}
+h2,h3{
+	text-decoration: underline;
+}
+.link{
+	font-size:15px;
+}
